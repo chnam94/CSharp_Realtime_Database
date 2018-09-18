@@ -1,0 +1,8 @@
+D:\FinalProjects\SmartFactoryMonitoringSystem\Realtime_Databases\bin\Debug\Realtime_Databases.dll
+D:\FinalProjects\SmartFactoryMonitoringSystem\Realtime_Databases\bin\Debug\Realtime_Databases.pdb
+D:\FinalProjects\SmartFactoryMonitoringSystem\Realtime_Databases\bin\Debug\MySql.Data.dll
+D:\FinalProjects\SmartFactoryMonitoringSystem\Realtime_Databases\bin\Debug\Google.Protobuf.dll
+D:\FinalProjects\SmartFactoryMonitoringSystem\Realtime_Databases\bin\Debug\MySql.Data.xml
+D:\FinalProjects\SmartFactoryMonitoringSystem\Realtime_Databases\obj\Debug\Realtime_Databases.csprojResolveAssemblyReference.cache
+D:\FinalProjects\SmartFactoryMonitoringSystem\Realtime_Databases\obj\Debug\Realtime_Databases.dll
+D:\FinalProjects\SmartFactoryMonitoringSystem\Realtime_Databases\obj\Debug\Realtime_Databases.pdb

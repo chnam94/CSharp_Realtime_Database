@@ -1,0 +1,11 @@
+D:\FinalProjects\SmartFactoryMonitoringSystem\Tests\bin\Debug\Tests.exe.config
+D:\FinalProjects\SmartFactoryMonitoringSystem\Tests\bin\Debug\Tests.exe
+D:\FinalProjects\SmartFactoryMonitoringSystem\Tests\bin\Debug\Tests.pdb
+D:\FinalProjects\SmartFactoryMonitoringSystem\Tests\obj\Debug\Tests.exe
+D:\FinalProjects\SmartFactoryMonitoringSystem\Tests\obj\Debug\Tests.pdb
+D:\FinalProjects\SmartFactoryMonitoringSystem\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\FinalProjects\SmartFactoryMonitoringSystem\Tests\bin\Debug\Realtime_Databases.dll
+D:\FinalProjects\SmartFactoryMonitoringSystem\Tests\bin\Debug\MySql.Data.dll
+D:\FinalProjects\SmartFactoryMonitoringSystem\Tests\bin\Debug\Google.Protobuf.dll
+D:\FinalProjects\SmartFactoryMonitoringSystem\Tests\bin\Debug\Realtime_Databases.pdb
+D:\FinalProjects\SmartFactoryMonitoringSystem\Tests\bin\Debug\MySql.Data.xml
